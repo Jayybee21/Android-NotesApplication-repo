@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShoppingApplication</string>
+    <string name="fab_button">fab button</string>
+</resources>
